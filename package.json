@@ -10,6 +10,9 @@
   },
   "author": "Jon Soeder <jon@chicago.com> https://github.com/datapimp",
   "license": "MIT",
+  "scripts": {
+    "clone:framework": "git clone git@github.com:skypager/skypager.git framework"
+  },
   "dependencies": {
     "babel-preset-skypager": "^20.1.0",
     "electron": "^1.7.9",
