@@ -9,3 +9,7 @@ the build tooling to remove this discrepancy.
 
 Mainly the difference is that we're not as up to date with webpack and babel's latest versions as we'd like to be.
 
+## Getting Started
+
+* Run `yarn clone:framework` to clone the actual skypager framework into the framework folder.
+*
